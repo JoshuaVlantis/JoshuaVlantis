@@ -8,6 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaVlantis&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaVlantis&show_icons=true&theme=tokyonight)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuavlantis&theme=dark" alt="joshuavlantis" /></p>
