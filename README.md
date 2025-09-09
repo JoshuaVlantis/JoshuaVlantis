@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Professional+PLC+Programmer;C%23+%26+.NET+Blazor+Developer;Creator+of+Wave+Finder;Raspberry+Pi+Enthusiast;Data-Focused+API+%26+Visualization+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=PLC+Programmer;Creator+of+Wave+Finder;Raspberry+Pi+Enthusiast;Data-Focused+API+%26+Visualization+Builder" alt="Typing SVG" />
 </h3>
 
 ---
@@ -31,7 +31,7 @@
 - 👨‍💻 Professional PLC Programmer - specializing in industrial automation & control systems  
 - 🌍 Creator of Wave Finder, a custom ocean & spearfishing data platform  
 - 🐧 Raspberry Pi enthusiast - hosting web apps and experimenting with IoT integrations  
-- ⚡ C#, .NET & Blazor developer - building modern dashboards and interactive tools  
+- ⚡ C#, .NET developer - building modern dashboards and interactive tools  
 - 📊 Data-focused - creating APIs and visualizations to turn raw data into insights
 ---
   ### 🌐 Connect with Me
